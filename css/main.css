@@ -1,0 +1,120 @@
+html body #frame {
+    border: 10px #545454 solid;
+    height: 1580px;
+    overflow: auto;
+    width: 660px;
+}
+.left-column {
+	float: left;
+	height: 650;
+	margin: 5px;
+  padding: 5px;
+  width: 300px;
+}
+
+.box-one {
+	background: #ffffff;
+	border: 10px #545454 solid;
+	margin: 5px;
+  width: 250px;
+}
+
+.box-two {
+	background: #ffffff;
+	border: 10px #545454 solid;
+	margin: 5px;
+  width: 250px;
+}
+
+.box-three {
+	background:#ffffff;
+	border:10px #545454 solid;
+	margin: 5px;
+  width: 250px;
+}
+
+.box-four {
+	background: #ffffff;
+	border:10px #545454 solid;
+	margin: 5px;
+  width: 250px;
+}
+
+.box-five {
+	background: #ffffff;
+	border:10px #545454 solid;
+  height: 219px;
+	margin: 5px;
+  width: 250px;
+}
+
+.right-column {
+	float: left;
+	height: 650;
+	margin: 5px;
+  padding: 5px;
+  width: 300px;
+}
+
+.box-six {
+	background: #ffffff;
+	border:10px #545454 solid;
+	margin: 5px;
+    width: 250px;
+}
+
+.box-seven {
+	background:#ffffff;
+	border:10px #545454 solid;
+	margin: 5px;
+  width: 250px;
+}
+
+.box-eight {
+	background: #ffffff;
+	border:10px #545454 solid;
+	margin: 5px;
+  width: 250px;
+}
+
+.box-nine {
+	background: #ffffff;
+	border:10px #545454 solid;
+	margin: 5px;
+  width: 250px;
+}
+
+.box-ten {
+	background: #ffffff;
+	border:10px #545454 solid;
+	clear: both;
+  margin: 5px 5px 5px 14px;
+  width: 570px;
+}
+	
+p {
+	background:#ffffff;
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 28px;
+	color: #545454;
+	text-align: center;
+	line-height: 35px;
+	letter-spacing: 2px;
+	padding: 20px;
+}
+
+.extra-bold {	
+	font-family: 'Bungee Inline', cursive;
+	font-weight:bold;
+	font-size: 32px;
+	color:#ff6f61;
+}
+
+span {
+	font-family: 'Bungee Inline', cursive;
+	font-weight:bold;
+	font-size: 24px;
+	color:#ff6f61;
+}
+
+	
